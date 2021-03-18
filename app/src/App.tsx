@@ -7,8 +7,8 @@ function App() {
   const props = {
     questions: [
       { id: 1, clue: 'hej', solution: '23' },
-      { id: 1, clue: 'hej', solution: '23' },
-      { id: 1, clue: 'hej', solution: '23' },
+      { id: 2, clue: 'hej', solution: '23' },
+      { id: 3, clue: 'hej', solution: '23' },
     ],
   }
 
